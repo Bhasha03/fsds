@@ -1,0 +1,78 @@
+1.
+True and False
+They are boolean 'keywords' too. We should write them with a uppercase for its first letter.
+
+2.
+and or not are the three different types of Boolean operators.
+also bitwise & | ! are also operators.
+
+3.
+AND     OR      NOT
+T T T   T T T   T F
+T F F   T F T   F T
+F T F   F T T
+F F F   F F F
+
+4.
+(5 > 4) and (3 == 5) is                False
+not (5 > 4) is                         False
+(5 > 4) or (3 == 5) is                 True
+not ((5 > 4) or (3 == 5)) is           False
+(True and True) and (True == False) is False
+(not False) or (not True) is           True
+
+5.
+> (greater than)
+< (less than)
+== (equal to)
+!= (not equal to)
+<= (less than or equal to)
+>= (greater than or equal to)
+
+6.
+Equal to have two symbol symbols as "==" whereas an assignment operator have a single symbol as "=".
+For example if i want to assign a value to a variable like foo="bar" then a single symbol is used.
+And when i want to compare two values i use two symbol as it indicates equality for example "foo" == "bar"
+
+7.
+spam = 0
+if spam == 10:
+  print('eggs') # block 1
+if spam > 5:
+  print('bacon') # block 2
+else:
+  print('ham') # block 3
+  print('spam')
+  print('spam')
+#blocks identified
+
+8.
+if spam == 1:
+  print("Hello")
+elif spam == 2:
+  print("Howdy")
+else:
+  print("Greetings!")
+  
+9.
+ctrl+c or ctrl+z
+
+10.
+break ends a loop
+continue shifts the control flow back to the loop bypassing the following condition.
+
+11.
+There is no difference.
+
+12.
+for i in range(1,11):
+    print(i)
+
+i=1
+while (i<11):
+  print(i)
+  i+=1
+  
+13.
+import spam
+spam.bacon()
