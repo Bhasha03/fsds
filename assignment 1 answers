@@ -1,0 +1,49 @@
+1.
+* is an expression (its an operator called asterisk for doing multiplication)
+'hello' is a string
+-87.8 is a value
+- is an operator for substraction
+/ is an operator for division
++ is an operator for addition
+6 is a value
+
+
+2.
+A string is a value that is enclosed in quotes like single or double quotes
+Whereas a vaiable is a value holder.
+A string as a value cannot be changed whereas a variable as the name itself suggest can be varied at any point in a program.
+
+3.
+int
+tuple
+string
+
+4.
+An expression is simply defined as a part of an equation. Unlike an equation there is no equality operator "==" or an asignment operator "="
+It is composed of only Operands and Operators. that makes it an expression. Eg.: 1+2 or a+b.
+Expressions gets evaluated to become any scalar value.
+
+5.
+spam=10 is not an expression it is a value assignment. spam is variable and 10 is value. "=" is assignment operator.
+statement is a line of code. spam=10 can be a statement. it can also end with a semicolon ';'.
+
+6.
+23
+
+7.
+spamspamspam
+spamspamspam
+
+8.
+'eggs' starts with alphabet. it is rule in python or any programming languages that a variable name must either begin with a character or semicolon '_' but not a number (or integer). As 100 begins with an integer or number i.e., 1 it violates the rule and hence considered invalid by the interpreter.
+
+9.
+int()
+float()
+str()
+
+10.
+'I have eaten ' + 99 + ' burritos.'
+According to rules of python interpreter. A string value can only be concatinated to another string value alone. As 99 is an integer the operation fails.
+To fix  it enclose 99 within quotes as follows:
+'I have eaten ' + '99' + ' burritos.' or 'I have eaten ' + "99" + ' burritos.'

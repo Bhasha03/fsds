@@ -1,0 +1,27 @@
+1. Functions are meant to make programmer's life easy because they enable 'resusability' which helps coder from buidling a same logic from scratch. its a time saving mechanism as one don't have to reinvent the wheel for future uses. These functions enables modularity and can be easily used in other scripts after being imported using their libraries into that script. functions are defined to achieve a specific unique task.
+
+2. When it is called
+
+3. def keyword
+
+4. function syntax is begins with def keyword and ends with a colon ';'. It is used to define a set of instructions or code. Whereas a function call is used to run that function after being defined its syntax is just its identifier followed by parenthesis but no colon of def keyword.
+
+5. one global scope. the local scopes are there as many as we define. like functions or classes. they are blocks of code.
+
+6. the variables get executed and varies as per operation.
+
+7. As the name itself suggest A Return value is the value that is returned by the function using the return keyword. No a function alone can return a value an expression cannot.
+
+8. None
+
+9. By using the keyword Global
+
+10. None itself is a datatype and keyword as well.
+
+11. It will simply import that function called areallyourpetsnamederic.
+
+12. spam.bacon()
+
+13. I will handle the exceptions
+
+14. try clause is used to check if there's any exception hidden in the block of code and handle it safely by restraining any abnormal termination of the execution. except clause is used to grab any occurence of specified exception class or parent exception class (i.e., Exception class) and detects it, so we can print and resolve it.
